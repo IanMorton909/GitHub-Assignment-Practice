@@ -1,2 +1,2 @@
-# GitHub-Assignment-Practice
+#Practice-Github-Repository
 Changed readme name
