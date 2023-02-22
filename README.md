@@ -1,3 +1,3 @@
 #Practice-Github-Repository
 Changed readme name
-changed on browser github
+changed onto browser github
